@@ -1,0 +1,5 @@
+{
+  "name": "VeriChat",
+  "description": "A playground demonstrating a protocol for verifiable, private, and decentralized communication, featuring credential-gated channels using simulated zero-knowledge proofs.",
+  "requestFramePermissions": []
+}
